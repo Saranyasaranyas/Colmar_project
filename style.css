@@ -1,0 +1,353 @@
+body{ 
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*first position*/
+#header{
+	color:blueviolet;
+	background-color: brown;
+	display: inline-block;
+}
+#logo{
+	display: inline-block;
+
+	font-size: 2em;
+	padding-top: 16px;
+	padding-bottom:16px;
+	padding-left:24px;
+	font-weight: 32px;
+}
+#menu{
+	
+}
+#menu li{
+display:inline-block;
+padding-top: 24px;
+padding-bottom: 24px;
+font-weight: 16px;
+}
+#menu li a{
+	text-decoration: none;
+	padding-left: 16px;
+}
+
+/* mobile phone screen*/
+#mobileheading .mobilemainimg1{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+#mobileheading .mobilemainimg2{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+#mobileheading .mobilemainimg3{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+#mobileheading .mobilemainimg4{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+
+
+/* second row(possituion) */
+#banner{
+
+	background-color: gray;
+	padding: 32px;
+	
+}
+#banner .secondh, .secondp ,button{
+		background-color: gray;
+
+  padding-left:24px;
+  width: 45%;
+}
+#banner .secondh{
+	padding-top:100px;
+	font-weight: bold;
+	font-size:30px;
+}
+#bannertext{
+	padding-left:24px;
+}
+#banner button{
+	align-items: left;
+	margin-left:28px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}	
+#banner .secondp{
+	margin-top: 24px;
+	margin-bottom: 24px ;
+	font-size: 18px;
+}
+#third{
+	margin-top:32px;
+}
+#third .thirdh{
+margin-top: 32px;
+}
+#third .thirdp{
+margin-top: 24px;
+}
+#third .thirdp1{
+margin-top: 32px;
+margin-bottom: 32px;
+}
+#bannertext{
+	background-color: grey;
+	display:inline-block;
+	align-items: center;
+}
+#bannertext .thirddivp1{
+	display:inline-block;
+}
+
+
+/*Banner For Mobile Screen*/
+#mobilebanner{
+	background-size: cover;
+	text-align:center;
+}
+#mobilebanner .mobilesecondh{
+	text-align: left;
+	font-weight: bold;
+	font-size: 45px;
+padding-top: 32px;
+padding-bottom: 32px;
+padding-left: 16px;
+}
+#mobilebanner .mobilesecondp{
+	text-align: left;
+padding-bottom: 24px;
+padding-left: 16px;
+font-size: 27px;
+}
+#mobilebanner .mobilebannerbutton{
+margin-left: 25px	;
+width:420px;
+}
+
+
+
+/*third Row*/
+/*position one*/
+#thirdbanner{
+	display: inline-block;
+}
+/*position two*/
+#thirdbanner1{
+	margin-top: 0;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+#third .thirdbannerimg2{
+	margin-top:30px;
+	margin-bottom:40px;	
+}
+/* slider content*/
+#thirdbannerp1 .thirdbannerh1{
+	font-size: 25px;
+	margin-top: 30px;
+}
+#thirdbannerp1 .thirdbannerh2{
+	margin-top: 70px;
+	font-size: 25px;
+	padding: 0;
+}
+
+#thirdbannerp1 .thirdbannerh3{
+margin-top: 80px;
+}
+#thirdbannerp1 .thirdbannera1{
+  margin-top:0;
+}
+
+
+/*  Mobile For Third Column*/
+#mobilethird{
+	padding: 16px;
+	
+}
+#mobilethird .mobilethirdh1{
+	padding-top: 16px;
+	padding-left: 32px;
+}
+#mobilethird .mobilethirdp1, .mobilethirda1{
+	padding-left: 32px;
+} 
+
+
+/*Fourth Row*/
+#fourth .card{
+	margin-top: 32px;
+	margin-left: 72px;
+	margin-right: 72px;
+}
+#fourth .card .card-img-top{
+	position: relative;
+	margin-bottom: 16px;
+}
+#fourth .card .card-title{
+	font-weight: bold;
+	font-size: 18px;
+}
+#fourth .card .card-body{
+	margin-left:16px;
+	font-size:16px;
+}
+#fourth .card .card-text{
+	margin-top:8px;
+	font-size:18px;
+}
+#fourth .card .card-text1{
+	margin-top:8px;
+	font-size:14px;
+}
+#fourth .card .card-text2{
+	font-size:14px;
+}
+#fourth .colum2{
+	margin-left: 32px;
+	margin-right: 32px;
+}
+#fourth .colum1{
+	margin-left: 72px;
+}
+#fourth .colum3{
+	margin-right:72px;
+}
+
+#fourth .colum1 .fs1{
+padding-bottom: 21px;
+}
+#fourth .colum3 .fs2{
+padding-bottom: 21px;
+}
+
+
+
+/*   Mobile Forth Row */
+#mobilefourth{
+	padding-left: 16px;
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+#mobilefourth .mobilefourthh3{
+	text-align: center;
+	font-weight: bolder;
+	padding-bottom: 16px;
+}
+#mobilefourth .mobilefourthh4{
+	padding-top: 16px;
+	padding-left: 16px;
+	padding-bottom: 24px;
+	background-color:rgba(117, 117, 113, 0.3);
+}
+
+
+
+
+
+
+
+
+/* Fifth Row */
+
+#fifth .fifthhead{
+	margin-top: 32px;
+	margin-bottom: 32px;
+	text-align:center;
+}
+
+/* Mobile Fifth Row */
+
+#mobilefifth{
+	padding-top: 32px;
+	padding-bottom: 24px;
+}
+#mobilefifth .mobilefifthh3{
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 16px;
+}
+
+/* Sixth Row  */
+#six .sixh5{
+	padding-top: 24px;
+	padding-bottom: 8px;
+}
+#six .sixp5{
+	padding-bottom: 32px;
+}
+
+#six .sixr1{
+	padding-top: 25px;
+	padding-left:16px;
+	padding-right:16px;
+	padding-bottom:10px;
+	margin-bottom: 16px;  
+}
+#six .sixim1{
+padding-top: 25px;
+	padding-left:16px;
+	padding-right:16px;
+	padding-bottom:10px;
+	margin-bottom: 16px;  	
+}
+#six .sixr2{
+	padding-top:5px;
+	padding-left:16px;
+	padding-right:16px;
+	padding-bottom:16px;
+}
+
+
+ #six .sixc1{
+ 	margin-top: 16px;
+ 	margin-bottom:16px;
+ }
+  #six .sixh1{
+  	margin-top:17px;
+  	padding-top:80px;
+  }
+    #six .sixh2{
+  	padding-top:120px;
+  }
+
+
+/*Footer styling */
+#footer{
+	padding-left: 120px;
+	}
+#footer .fh{
+	margin-top: 50px;
+	padding-top: 50px;
+padding-right: 24px;
+}
+#footer .fp li{
+	display: inline-block;
+  color:block;
+}
+
+
+/*Mobile Footer*/
+#mobilefooter{
+	align-items: left;
+	font-family: "Times New Roman", Times, serif;
+}
